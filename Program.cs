@@ -26,3 +26,6 @@ namespace DNA
     }
   }
 }
+// The is to find the ending condition for a DNA strand, "TGA", 
+// and then print out the substring of startStrand that starts from 
+// the first character and goes through "TGA". This will output a valid DNA strand.
