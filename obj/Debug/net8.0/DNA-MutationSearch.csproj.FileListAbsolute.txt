@@ -1,0 +1,15 @@
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/bin/Debug/net8.0/DNA-MutationSearch
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/bin/Debug/net8.0/DNA-MutationSearch.deps.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/bin/Debug/net8.0/DNA-MutationSearch.runtimeconfig.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/bin/Debug/net8.0/DNA-MutationSearch.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/bin/Debug/net8.0/DNA-MutationSearch.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.AssemblyInfoInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.AssemblyInfo.cs
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.csproj.CoreCompileInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.sourcelink.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/refint/DNA-MutationSearch.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/DNA-MutationSearch.genruntimeconfig.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/DNA-MutationSearch/obj/Debug/net8.0/ref/DNA-MutationSearch.dll
